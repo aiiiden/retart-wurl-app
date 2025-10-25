@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "nomicfoundation.hardhat-solidity",
+    "tintinweb.solidity-visual-auditor",
+    "formulahendry.auto-rename-tag",
+    "oven.bun-vscode",
+    "bierner.color-info"
+  ]
+}
