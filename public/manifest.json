@@ -1,14 +1,43 @@
 {
-  "name": "Test App",
+  "name": "Retart Wurl",
+  "short_name": "Retart Wurl",
+  "description": "My Awesome App description",
   "display": "fullscreen",
   "start_url": "/",
+  "scope": "/",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
+  "orientation": "portrait-primary",
   "icons": [
+    {
+      "src": "/pwa-64x64.png",
+      "type": "image/png",
+      "sizes": "64x64",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    },
     {
       "src": "/pwa-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ]
 }
