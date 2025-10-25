@@ -39,5 +39,31 @@
       "sizes": "512x512",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "/splash_screens/android-splash-540x720.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/splash_screens/android-splash-720x540.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "standard"
+    },
+    {
+      "src": "/splash_screens/android-splash-1280x720.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/splash_screens/ios-splash-720x1280.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "form_factor": "standard"
+    }
   ]
 }
